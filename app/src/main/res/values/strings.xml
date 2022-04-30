@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProyectoUtem0122</string>
+    <string name="welcome">Hello World!!</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="anterior">Volver</string>
+    <string name="segunda">Bienvenido a la Segunda vista</string>
+    <string name="video">Ver video</string>
+</resources>
